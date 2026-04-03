@@ -49,6 +49,8 @@ http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Derin TV" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/derin-tv-528x297-1.webp", Derin TV
 http://baskhd.ddns.net:40/live/Derin/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="RENG MUSIC" group="KU | KURDISH" logo="https://iili.io/B24OVxj.jpg",RENG MUSIC
+http://exclusifott.pro:80/play/live.php?mac=00%3A1A%3A79%3A7C%3A0E%3ADD&stream=1858992&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="MMN Clip HD" group="KU | KURDISH" logo="https://iili.io/q7PFJ4f.md.jpg", MMN Clip HD
 http://mmn.mypsx.net:1935/live/mmnhdclip/chunklist_w1884329262.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Kurdmax Music HD" group="KU | KURDISH" logo="https://i.ibb.co/3hxXMrB/kurdmax-music.jpg", Kurdmax Music
@@ -61,6 +63,8 @@ https://cihanhd.com/playlist
 https://barham.short.gy/VPTcoB.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Fairuz TV" group="KU | KURDISH" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkB2qLBz9XEBuUtHufmsMedqYrL4T3PFz1pXZa5nUx8Q&s=10", Fairuz TV
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ONE music" group="KU | KURDISH" logo="https://iili.io/BdWyQI9.png",ONE music 
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Garyan TV" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/graryan-fm.png", Garyan TV 
 http://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Persiana Music" group="KU | KURDISH" logo="https://iili.io/q7tKpmG.jpg", Persiana Music
@@ -77,14 +81,20 @@ http://mmn.mypsx.net:1935/live/mmnhdradiofarsy/chunklist_w1525911840.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1051966468.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="MMN Show HD" group="KU | KURDISH" logo="https://iili.io/q7PWFSa.jpg", MMN Show HD
 http://mmn.mypsx.net:1935/live/mmnhddshow/chunklist_w424925664.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Newline SPORT" group="KU | KURDISH" logo="https://i.postimg.cc/R0HW6K5W/images-(13).jpg" tvg-id="dummy.epg" ,NEWLINE SPORT
+http://128.0.104.44:8070/live/F18115/068f009e/300751.ts
 #EXTINF:0 type="stream" channelId="-1" name="NRT Sport" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png", NRT Sport
-http://d875.dtv.homes:2082/live/amir2024_959939/z2hydmEG/689907.ts
+http://exclusifott.pro:80/play/live.php?mac=00%3A1A%3A79%3A7C%3A0E%3ADD&stream=1858985&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="AVA Sport" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/ava-sport-560x315.jpg", AVA Sport
-http://hmugiqft.daizdns.com:80/live/ZS4VWKWN/492SBMB3/1260602.ts
+http://exclusifott.pro:80/play/live.php?mac=00%3A1A%3A79%3A7C%3A0E%3ADD&stream=1858987&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ASO SPORT" group="KU | KURDISH" logo="https://iili.io/B39Nien.jpg",ASO SPORT 
+http://exclusifott.pro:80/play/live.php?mac=00%3A1A%3A79%3A7C%3A0E%3ADD&stream=1858982&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="Gewher Sport" group="KU | KURDISH" logo="https://iili.io/q7tHefe.md.jpg", Gewher Sport
 https://iptv-link.short.gy/Gewher_Sport.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="SPI Sport" group="KU | KURDISH" logo="https://iili.io/q5r9vIe.md.jpg", SPI Sport
 https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SPI Sport" group="KU | KURDISH" logo="https://iili.io/B3MAxa4.jpg",ZVG Sport
+https://barham.short.gy/zvgsport.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Batifa TV" group="KU | KURDISH" logo="https://iili.io/q7y7XV4.md.jpg", Batifa TV
 https://live20.bozztv.com/giatv/giatv-batifa/BATIFA-TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Gewher TV" group="KU | KURDISH" logo="https://iili.io/q7Lubpt.md.jpg", Gewher TV
@@ -111,6 +121,10 @@ http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Bahra TV" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/bahra-tv.jpeg", Bahra TV
 http://51.89.152.180:80/live/BahraHD/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="BMC TV" group="KU | KURDISH" logo="https://iili.io/B24mCHF.jpg",BMC TV
+http://exclusifott.pro:80/play/live.php?mac=00%3A1A%3A79%3A7C%3A0E%3ADD&stream=1859025&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ESTA" group="KU | KURDISH" logo="https://iili.io/B3H02Z7.md.jpg",ESTA TV
+http://exclusifott.pro:80/play/live.php?mac=00%3A1A%3A79%3A7C%3A0E%3ADD&stream=1859015&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="Soz Quran" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/soz-tv-528x297.jpg", Soz Quran
 http://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="SHNA TV" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/shna-tv.jpg", SHNA TV
@@ -126,21 +140,21 @@ http://sada-hd.ddns.net:40/live/sadatv/index.m3u8?checkedby:kurdtv1
 #EXTINF:0 type="stream" channelId="-1" name="Jmedia" group="KU | KURDISH" logo="https://iili.io/q5rXYx4.md.jpg", Jmedia TV
 http://jegrmediahussen.com:8088/JMedia/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="ZED TV" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/zed-tv-plus-528x297.jpg", ZED TV
-http://xtream-ie.org/live/kamalblbas/kamalblbas/79.ts
+http://exclusifott.pro:80/play/live.php?mac=00%3A1A%3A79%3A7C%3A0E%3ADD&stream=324622&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="ZED.+ TV" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/zed-tv-528x297.jpg", ZED+ TV
-http://xtream-ie.org/live/kamalblbas/kamalblbas/80.ts
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1310901&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="NEW LINE 1" group="KU | KURDISH" logo="https://i.postimg.cc/GRfhKqCQ/n1.png" tvg-id="dummy.epg" ,NEW LINE 1
-https://shorter.me/ObbaX
+http://194.42.205.101:8070/live/F18115/068f009e/296392.ts
 #EXTINF:0 type="stream" channelId="-1" name="NEW LINE 2" group="KU | KURDISH" logo="https://i.postimg.cc/pxnV6zVt/n2.png" tvg-id="dummy.epg" ,NEW LINE 2
-https://shorter.me/q4Qi_
+http://128.0.104.44:8070/live/F18115/068f009e/296393.ts
 #EXTINF:0 type="stream" channelId="-1" name="Newline Drama" group="KU | KURDISH" logo="https://i.postimg.cc/4JYJGg10/NDRAMA.png" tvg-id="dummy.epg" ,Newline Drama
-https://shorter.me/2tRa3
+http://128.0.104.44:8070/live/F18115/068f009e/300748.ts
 #EXTINF:0 type="stream" channelId="-1" name="NEWLINE Kids" group="KU | KURDISH" logo="https://i.postimg.cc/1mHyScdW/NKIDS.png" tvg-id="dummy.epg" ,NEWLINE Kids
-https://shorter.me/zdxRN
+http://128.0.104.44:8070/live/F18115/068f009e/300749.ts
 #EXTINF:0 type="stream" channelId="-1" name="Newline Movies" group="KU | KURDISH" logo="https://i.postimg.cc/ZTPSPxJT/nmovies.png" tvg-id="dummy.epg" ,Newline Movies
-https://shorter.me/PcYyR
+http://205.237.106.157:8070/live/F18115/068f009e/300750.ts
 #EXTINF:0 type="stream" channelId="-1" name="Newline Bollywood" group="KU | KURDISH" logo="https://iili.io/q635Mdb.md.jpg" ,Newline Bollywood
-https://shorter.me/C_H6X
+http://128.0.104.39:8070/live/F18115/068f009e/300747.ts
 #EXTINF:0 type="stream" channelId="-1" name="BINER" group="KU | KURDISH" logo="https://iili.io/qYdyMZu.jpg", Biner TV
 https://live20.bozztv.com/giatv/giatv-Shawkat/Biner_HD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Befrin HD" group="KU | KURDISH" logo="https://karwan.tv/wp-content/uploads/befrin-tv-528x297.jpg", Befrin HD
@@ -211,6 +225,8 @@ https://northtelecom.live/KURD.m3u8
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="MMN ACTION" group="KU | KURDISH" logo="https://iili.io/q7PlaEb.jpg", MMN ACTION
 http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="OSN Movies Action" group="KU | KURDISH" logo="https://iili.io/B31TPyX.jpg", OSN Movies Action
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=342424&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="MMN DRAMA" group="KU | KURDISH" logo="https://iili.io/q76rFeI.jpg", MMN DRAMA
 http://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="MMN Quran" group="KU | KURDISH" logo="https://iili.io/qYMJocx.jpg", MMN Quran
@@ -235,11 +251,95 @@ http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w214154932
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Mihrab TV" group="KU | KURDISH" logo="https://i.ibb.co/7R3WVFk/Mihrab.jpg", Mihrab TV
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ALFAJR 1" group="KU | KURDISH" logo="https://iili.io/B245LH7.jpg",ALFAJR 1
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=1297403&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALFAJR 2" group="KU | KURDISH" logo="https://iili.io/B337Qe4.md.jpg",ALFAJR 2
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=1297401&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALFAJR 3" group="KU | KURDISH" logo="https://iili.io/B33A4qu.md.jpg",ALFAJR 3
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=1297399&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALFAJR 4" group="KU | KURDISH" logo="https://iili.io/B33cKiP.md.jpg",ALFAJR 4
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=1297397&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALFAJR 5" group="KU | KURDISH" logo="https://iili.io/B331ldF.md.jpg",ALFAJR 5
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=1297395&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS NEWS" group="KU | KURDISH" logo="https://iili.io/B9kEE7V.md.png", BEIN SPORTS NEWS
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=78372&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 1" group="KU | KURDISH" logo="https://iili.io/B9kwDXV.md.png", BEIN SPORTS 1
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985154&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 2" group="KU | KURDISH" logo="https://iili.io/B9k6ekB.md.png", BEIN SPORTS 2
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985153&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 3" group="KU | KURDISH" logo="https://iili.io/B9vJ64p.md.png", BEIN SPORTS 3
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985152&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 4" group="KU | KURDISH" logo="https://iili.io/B9vnwxI.md.png", BEIN SPORTS 4
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985151&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 5" group="KU | KURDISH" logo="https://iili.io/B9vRMwG.md.png", BEIN SPORTS 5
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985150&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 6" group="KU | KURDISH" logo="https://iili.io/B9vGrep.md.png", BEIN SPORTS 6
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985149&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 7" group="KU | KURDISH" logo="https://iili.io/B9vw0uf.md.png", BEIN SPORTS 7
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985148&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BEIN SPORTS 8" group="KU | KURDISH" logo="https://iili.io/B9vUvEv.md.png", BEIN SPORTS 8
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985147&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ZOOM" group="KU | KURDISH" logo="https://iili.io/B9vsC8v.md.jpg", BEIN SPORTS 9
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3A6B%3ADB%3AA0&stream=985146&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="THMANIAH 1" group="KU | KURDISH" logo="https://iili.io/B2i63N4.png", THMANIAH 1
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=381478&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="THMANIAH 2" group="KU | KURDISH" logo="https://iili.io/B2i63N4.png", THMANIAH 2
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=381477&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="THMANIAH 3" group="KU | KURDISH" logo="https://iili.io/B2i63N4.png", THMANIAH 3
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=381476&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="STARZ PLAY 1" group="KU | KURDISH" logo="https://iili.io/B2iWwve.png", STARZ PLAY 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6B:DB:A0&stream=633642&extension=ts&play_token=VkWrOdlcdi
+#EXTINF:0 type="stream" channelId="-1" name="STARZ PLAY 2" group="KU | KURDISH" logo="https://iili.io/B2iWwve.png", STARZ PLAY 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6B:DB:A0&stream=633641&extension=ts&play_token=hyGN2rQNFb
+#EXTINF:0 type="stream" channelId="-1" name="ALWAN SPORT 1" group="KU | KURDISH" logo="https://iili.io/B2i89cv.png", ALWAN SPORT 1
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=402388&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALWAN SPORT 2" group="KU | KURDISH" logo="https://iili.io/B2i89cv.png", ALWAN SPORT 2
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=402385&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALWAN SPORT 3" group="KU | KURDISH" logo="https://iili.io/B2i89cv.png", ALWAN SPORT 3
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=402382&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALWAN SPORT 4" group="KU | KURDISH" logo="https://iili.io/B2i89cv.png", ALWAN SPORT 4
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=402379&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALWAN SPORT 5" group="KU | KURDISH" logo="https://iili.io/B2i89cv.png", ALWAN SPORT 5
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=402376&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ALWAN SPORT 6" group="KU | KURDISH" logo="https://iili.io/B2i89cv.png", ALWAN SPORT 6
+http://premium-tv-france.com:80/play/live.php?mac=00%3A1A%3A79%3AA5%3A9E%3AAF&stream=402373&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="IRAQIA SPORT" group="KU | KURDISH" logo="https://iili.io/B2sMLYX.png", IRAQIA SPORT
+http://foliogtv.live:80/play/live.php?mac=00%3A1A%3A79%3A57%3AFA%3A09&stream=22861&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="BRUSE LEE" group="KU | KURDISH" logo="https://iili.io/BBMqIrQ.jpg",BRUSE LEE
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:86:FD&stream=1944469&extension=ts&play_token=dAHPRio7vw
+#EXTINF:0 type="stream" channelId="-1" name="JACKIE CHAN" group="KU | KURDISH" logo="https://iili.io/BBM3XWv.jpg",JACKIE CHAN
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:B5:86:FD&stream=1944439&extension=ts&play_token=zhtVo2zbx3
+#EXTINF:0 type="stream" channelId="-1" name="AMITABH BACHCHAN" group="KU | KURDISH" logo="https://iili.io/B2i9mg4.png",AMITABH BACHCHAN
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629394&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="MITHUN CHAKRABORTY" group="KU | KURDISH" logo="https://iili.io/B2PybHB.png",MITHUN CHAKRABORTY
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629373&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="DHARMENDRA" group="KU | KURDISH" logo="https://iili.io/B3JiWn2.md.jpg",DHARMENDRA
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629385&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="AMRISH PURI" group="KU | KURDISH" logo="https://iili.io/B2PvQm7.md.png",AMRISH PURI
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629393&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ANIL KAPOOR" group="KU | KURDISH" logo="https://iili.io/B2PgNGn.png",ANIL KAPOOR
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629392&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="DILIP KUMAR" group="KU | KURDISH" logo="https://iili.io/B2PSVcv.md.jpg",DILIP KUMAR
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629384&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="GOVINDA" group="KU | KURDISH" logo="https://iili.io/B2PpTIn.jpg",GOVINDA
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629381&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="SUNIEL DUTT" group="KU | KURDISH" logo="https://iili.io/B2PZ4tf.jpg",SUNIEL DUTT
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1629349&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ZEE ACTION" group="KU | KURDISH" logo="https://iili.io/B24W6f1.jpg",ZEE ACTION
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=440248&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ZEE CLASSIC" group="KU | KURDISH" logo="https://iili.io/B26jXG2.jpg",ZEE CLASSIC
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=440256&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ZEE BOLLWOOD" group="KU | KURDISH" logo="https://iili.io/B24VK2s.md.jpg",ZEE BOLLWOOD
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=440255&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ZEE CINEMA" group="KU | KURDISH" logo="https://iili.io/B24Fvjt.md.jpg",ZEE CINEMA
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=440254&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="ZEE CINEMA" group="KU | KURDISH" logo="https://iili.io/B24Fvjt.md.jpg",ZEE CINEMA
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1015315&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="B4U_MOVIES" group="KU | KURDISH" logo="https://iili.io/q7DhzXe.md.jpg", B4u movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1624601&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="B4U_KADAK" group="KU | KURDISH" logo="https://iili.io/q7LXNNs.jpg", B4u kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=440291&extension=ts
+#EXTINF:0 type="stream" channelId="-1" name="SONY MAX 2" group="KU | KURDISH" logo="https://iili.io/B3J2UIS.jpg",SONY MAX 2 HD
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=440276&extension=ts
 #EXTINF:0 type="stream" channelId="-1" name="B4U_MUSIC" group="KU | KURDISH" logo="https://iili.io/q7Dj4Mg.jpg", B4u music 
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="ZOOM" group="KU | KURDISH" logo="https://iili.io/qYdQHVp.md.jpg", Zoom 
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+http://204.52.191.254:80/play/live.php?mac=00%3A1A%3A79%3AC0%3A94%3A9F&stream=1624600&extension=ts
